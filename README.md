@@ -1,2 +1,2 @@
-# strona
+# Kizo mood
 Strona internetowa
